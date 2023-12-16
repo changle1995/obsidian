@@ -18,3 +18,8 @@
 ![[Pasted image 20231216232805.png]]
 4. 再继续填写和下一步：
 ![[Pasted image 20231216233204.png]]
+![[Pasted image 20231216233528.png]]
+![[Pasted image 20231216233705.png]]
+5. 确认并提交：
+![[Pasted image 20231216233755.png]]
+6. 
