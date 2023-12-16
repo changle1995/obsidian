@@ -28,4 +28,5 @@
 ![[Pasted image 20231216234206.png]]
 ![[Pasted image 20231216234227.png]]
 ![[Pasted image 20231216234437.png]]
+8. 等15-20分钟后，进入官网登录：
 
