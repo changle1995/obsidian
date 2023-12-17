@@ -30,3 +30,5 @@ JetBrains Idea 插件需要满足以下规则：
 		7. 将替换后的 class 文件打包到 jar 包中替换原 class 文件，执行代码：`jar -uvf instrumented-restful-fast-request-pro-2023.2.2.4.jar io\github\kings1990\plugin\fastrequest\cofig\llll1IIIll1II11I`
 	7. 将原 jar 包改名备份，并用修改后的 jar 包替换原 jar 包：![[Pasted image 20231206101234.png]]
 	8. 重启 Idea 可以看到对应的插件已经解锁并可正常使用了：![[Pasted image 20231206101531.png]]
+# 引用
+本文信息主要参考吾爱破解网的一篇文章

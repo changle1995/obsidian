@@ -1,5 +1,3 @@
-# 引用
-本文信息主要参考B站UP[阿豪ao](https://space.bilibili.com/383077678)发布的视频
 # 主要依赖条件
 1. 科学上网环境（可选，貌似无梯子也行）
 2. 一个谷歌邮箱或者微软Outlook邮箱`
@@ -33,4 +31,5 @@
 ![[Pasted image 20231216234437.png]]
 8. 等15-20分钟后，进入[官网](https://www.liberty.edu/)登录，过程中可能需要使用Microsoft Authenticator验证（或者其他认证器也可以）
 ![[Pasted image 20231217142014.png]]
-
+# 引用
+本文信息主要参考B站UP[阿豪ao](https://space.bilibili.com/383077678)发布的视频
