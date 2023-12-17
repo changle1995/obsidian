@@ -28,6 +28,6 @@
 ![[Pasted image 20231216234206.png]]
 ![[Pasted image 20231216234227.png]]
 ![[Pasted image 20231216234437.png]]
-8. 等15-20分钟后，进入[官网](https://www.liberty.edu/)登录，过程中可能需要使用Microsoft Authenticator验证
+8. 等15-20分钟后，进入[官网](https://www.liberty.edu/)登录，过程中可能需要使用Microsoft Authenticator验证（或者其他认证器也可以）
 ![[Pasted image 20231217142014.png]]
 
