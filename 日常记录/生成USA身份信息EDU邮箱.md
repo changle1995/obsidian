@@ -1,8 +1,9 @@
 # 主要依赖条件
 1. 科学上网环境（可选，貌似无梯子也行）
-2. 一个谷歌邮箱或者微软Outlook邮箱
-3. 美国身份信息生成：https://fauxid.com/
-4. 美国自由大学：https://www.liberty.edu/
+2. 一个谷歌邮箱或者微软Outlook邮箱`
+3. Microsoft Authenticator验证（或者其他认证器也可以）
+4. 美国身份信息生成：https://fauxid.com/
+5. 美国自由大学：https://www.liberty.edu/
 # 身份信息生成（供EDU邮箱使用）
 1. 打开美国身份信息生成：https://fauxid.com/
 2. 选择对应条件点击生成，选择男性、18-24岁、美国、阿拉斯加州
