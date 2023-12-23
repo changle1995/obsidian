@@ -22,7 +22,7 @@
 ![[Pasted image 20231216233528.png]]
 ![[Pasted image 20231216233705.png]]
 5. 确认并提交：
-![[Pasted image 20231216233755.png]]
+![[Pasted image 20231223223236.png|800]]
 6. 提交成功，获得学号：
 ![[Pasted image 20231216234014.png]]
 7. 填写信息创建邮箱：
