@@ -1,3 +1,5 @@
+# 注意
+本文初始目的为了申请jetbrains student developer pack，但是目前
 # 主要依赖条件
 1. 科学上网环境（可选，貌似无梯子也行）
 2. 一个谷歌邮箱或者微软Outlook邮箱`
